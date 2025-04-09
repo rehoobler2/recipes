@@ -2,5 +2,9 @@
 *sugar
 *lime
 *salt
+<<<<<<< HEAD
 
 put avocado into bowl.
+=======
+* put one avocado into a bowl
+>>>>>>> 315b0f0469ab24906790835110ea431bb35fc5e8
